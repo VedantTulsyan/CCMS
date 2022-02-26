@@ -1,0 +1,19 @@
+Heyy There, Coder...
+
+So, here we are getting our code to run on your PC
+
+So that's super easy "IF YOU HEAR ME OUT" .....
+
+
+
+STEPS :
+
+1. So first just run "installer" batch file as aministrator (give permission if asks any)
+
+2. Yepp ! There is no second Step
+
+3. Just run the CCMS (.py file) and 
+
+4. BOOM!! Done 
+
+NOTE : PLEASE DO NOT RUN CCMS IN (PYTHON IDLE)
